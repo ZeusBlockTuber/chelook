@@ -5,14 +5,15 @@ html {
 body{
     height: 100%;
 }
-.header {
-  width: 1920px;
-  height: 50px;
-  background-color: #0e1217;
-  margin-left: -8px;
-  margin-top: -56px;
-  position: fixed;
-}
+.header{
+    width: 1920px;
+    height: 50px;
+    background-color: rgb(255, 255, 255);
+    margin-left: -8px;
+    margin-top: -100px;
+    box-shadow: 0 1px 0 rgba(0, 0, 0, 0.040);
+    position: fixed;
+    }
 .logo {
 position: absolute;
 width: 100px;
