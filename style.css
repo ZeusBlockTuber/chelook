@@ -40,12 +40,22 @@ top: 13px;
 }
 .img1{
 position: absolute;
-width: 457px;
-height: 349px;
+width: 611px;
+height: 467px;
 left: 223px;
-top: 346px;
-border-radius: 20px;
+top: 396px;
+border-radius: 27px;
 }
 .izvestn{
-  
+ position: absolute;
+width: 214px;
+height: 41px;
+left: 236px;
+top: 334px;
+font-family: 'Onest Bold';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 57px;
+color: #FFFFFF;
 }
