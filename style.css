@@ -74,8 +74,9 @@ left: 589px;
 top: 304px;
 border-radius: 19px;
 }
-.izv{
-  top: 40px;
+.izv {
+  top: 24px;
+  position: fixed;
 }
 .img4 {
 position: absolute;
