@@ -47,17 +47,17 @@ top: 13px;
   border-radius: 27px;
 }
 .izvestn {
-  position: absolute;
-  width: 214px;
-  height: 41px;
-  left: 236px;
-  top: 273px;
-  font-family: 'Onest Bold';
-  font-style: normal;
-  font-weight: 700;
-  font-size: 30px;
-  line-height: 57px;
-  color: #FFFFFF;
+position: absolute;
+width: 214px;
+height: 41px;
+left: 236px;
+top: 294px;
+font-family: 'Onest Bold';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 57px;
+color: #FFFFFF;
 }
 .img2 {
 }
