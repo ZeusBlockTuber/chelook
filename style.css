@@ -40,10 +40,10 @@ top: 13px;
 }
 .img1 {
   position: absolute;
-  width: 464px;
-  height: 355px;
+  width: 338px;
+  height: 259px;
   left: 223px;
-  top: 375px;
+  top: 363px;
   border-radius: 27px;
 }
 .izvestn {
@@ -58,4 +58,6 @@ top: 13px;
   font-size: 30px;
   line-height: 57px;
   color: #FFFFFF;
+}
+.img2 {
 }
