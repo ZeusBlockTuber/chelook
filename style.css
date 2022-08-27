@@ -23,17 +23,17 @@ body{
   margin-top: 53px;
 }
 .mtext {
-position: absolute;
-width: 814px;
-height: 77px;
-left: 553px;
-top: 176px;
-font-family: 'Onest Bold';
-font-style: normal;
-font-weight: 700;
-font-size: 48px;
-line-height: 77px;
-text-align: center;
-color: #FFFFFF;
+  position: absolute;
+  width: 814px;
+  height: 77px;
+  left: 553px;
+  top: 122px;
+  font-family: 'Onest Bold';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 77px;
+  text-align: center;
+  color: #FFFFFF;
 }
 
