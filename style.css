@@ -37,5 +37,12 @@ body{
   color: #FFFFFF;
 }
 .img1{
-  width: 200px;
+position: absolute;
+width: 457px;
+height: 349px;
+left: 223px;
+top: 346px;
+
+background: url(шаблон для сайта.png);
+border-radius: 20px;
 }
