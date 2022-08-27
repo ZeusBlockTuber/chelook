@@ -14,9 +14,11 @@ body{
   position: fixed;
 }
 .logo {
-  width: 100px;
-  margin-left: 28px;
-  margin-top: 12px;
+position: absolute;
+width: 100px;
+height: 24px;
+left: 223px;
+top: 13px;
 }
 .mpage {
   margin-left: 430px;
