@@ -60,4 +60,10 @@ line-height: 57px;
 color: #FFFFFF;
 }
 .img2 {
+position: absolute;
+width: 155px;
+height: 151px;
+left: 223px;
+top: 650px;
+border-radius: 12px;
 }
