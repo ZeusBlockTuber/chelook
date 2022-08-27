@@ -87,16 +87,18 @@ top: 589px;
 border-radius: 19px;
 }
 .city{
-position: absolute;
-width: 92px;
-height: 25px;
-left: 1806px;
-top: 8px;
-font-family: 'Kalam';
-font-style: normal;
-font-weight: 700;
-font-size: 24px;
-line-height: 38px;
-text-align: center;
-color: #FFFFFF;
+.city {
+    left: 1814px;
+    position: absolute;
+    width: 92px;
+    left: 1782px;
+    top: -8px;
+font-family: 'Onest Regular';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 38px;
+    text-align: center;
+    color: #FFFFFF;
+}
 }
