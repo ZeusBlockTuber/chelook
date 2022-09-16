@@ -1,11 +1,53 @@
-@media(max-width: 992px){
- 
+@media(max-width: 1980px){
+
 }
-  }
+
+@media(max-width: 992px){
+
+}
+  
   @media(max-width: 768px){
-  /*Стили, на устройствах с максимальной ширеной экрана 768 пикселей и меньше */ 
+    .headline {
+      position: relative;
+      display: flex;
+      align-items: center;
+      height: 2.2rem;
+      padding: 1.4rem 1.7rem 0 1.6rem;
+      z-index: 2;
+    }
+    .logo {
+      position: absolute;
+      width: 80px;
+      height: 24px;
+      left: 30px;
+      top: 29px;
+    }
+    .hlogo {
+      position: absolute;
+      height: 24px;
+      bottom: -19px;
+    }
   }
   
   @media(max-width: 500px){
-  /*Стили, на устройствах с максимальной ширеной экрана 500 пикселей и меньше */
+    .headline {
+      position: relative;
+      display: flex;
+      align-items: center;
+      height: 2.2rem;
+      padding: 1.4rem 1.7rem 0 1.6rem;
+      z-index: 2;
+    }
+    .logo {
+      position: absolute;
+      width: 80px;
+      height: 24px;
+      left: 30px;
+      top: 29px;
+    }
+    .hlogo {
+      position: absolute;
+      height: 24px;
+      bottom: -19px;
+    }
   }
