@@ -22,11 +22,12 @@
       left: 30px;
       top: 29px;
     }
-    .hlogo {
-      position: absolute;
-      height: 24px;
-      bottom: -19px;
-    }
+.hlogo {
+  position: absolute;
+  height: 24px;
+  bottom: -19px;
+  margin-left: -30px;
+}
   }
   
   @media(max-width: 500px){
@@ -45,9 +46,10 @@
       left: 30px;
       top: 29px;
     }
-    .hlogo {
-      position: absolute;
-      height: 24px;
-      bottom: -19px;
-    }
+.hlogo {
+  position: absolute;
+  height: 24px;
+  bottom: -19px;
+  margin-left: -30px;
+}
   }
