@@ -30,26 +30,52 @@ body{
   margin-top: -12px;
   }
 .mpage {
-  margin-left: 430px;
+  margin-left: 0px;
   margin-top: 53px;
 }
 .mtext {
-position: absolute;
-font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-font-style: normal;
-font-size: 20px;
-line-height: 77px;
-color: white;
-}
-.hlogo {
   position: absolute;
-  height: 43px;
-  bottom: -34px;
-  margin-left: 1376px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-style: normal;
+  font-size: 20px;
+  color: white;
+  margin-top: -4px;
+  margin-left: 2px;
+}
+.hlogo0 {
+  position: absolute;
+  height: 19px;
+  margin-top: -3px;
+  margin-left: -110px;
 }
 .hlogo1 {
   position: absolute;
   height: 43px;
   bottom: -34px;
+  margin-left: 1376px;
+}
+.hlogo2 {
+  position: absolute;
+  height: 43px;
+  bottom: -34px;
   margin-left: 1454px;
+}
+.dada {
+  height: 180px;
+  width: 328px;
+  margin-top: 335px;
+  margin-left: 3px;
+}
+.news-block{
+  margin-top: 50px;
+}
+.box-test {
+  height: 40px;
+  width: 40px;
+  margin-top: 40px;
+  margin-left: 1px;
+}
+.box-test-text{
+  height: 38px;
+  margin-left: 5px;
 }
