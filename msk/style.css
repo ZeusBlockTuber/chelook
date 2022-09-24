@@ -74,11 +74,16 @@ body{
   margin-left: 5px;
 }
 .gorod {
-  margin-top: 134px;
+  margin-top: 174px;
   width: 455px;
   margin-left: -40px;
-}
-.mer{
+}.mer {
   width: 50px;
-  margin-top: 20px;
+  margin-top: 33px;
+  margin-left: 44px;
+}
+.mer {
+  width: 50px;
+  margin-top: 33px;
+  margin-left: 44px;
 }
