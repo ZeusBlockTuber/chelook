@@ -60,12 +60,6 @@ body{
   bottom: -19px;
   margin-left: -31px;
 }
-.dada {
-  height: 180px;
-  width: 328px;
-  margin-top: 335px;
-  margin-left: 3px;
-}
 .news-block{
   margin-top: 50px;
 }
@@ -78,4 +72,9 @@ body{
 .box-test-text{
   height: 38px;
   margin-left: 5px;
+}
+.gorod{
+margin-top: 300px;
+width: 500px;
+margin-left: -40px;
 }
