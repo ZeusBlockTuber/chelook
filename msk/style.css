@@ -96,3 +96,12 @@ body{
   margin-top: -56px;
   margin-left: 106px;
 }
+.mer-text1 {
+  position: absolute;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-style: normal;
+  font-size: 19px;
+  color: white;
+  margin-top: -56px;
+  margin-left: 106px;
+}
