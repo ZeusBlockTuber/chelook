@@ -81,7 +81,7 @@ body{
 .mer {
   width: 50px;
   margin-top: 33px;
-  margin-left: 44px;
+  margin-left: 33px;
 }
 .mer-text {
   position: absolute;
@@ -90,7 +90,7 @@ body{
   font-size: 19px;
   color: white;
   margin-top: -51px;
-  margin-left: 106px;
+  margin-left: 96px;
 }
 .mer-text1 {
   position: absolute;
@@ -99,7 +99,7 @@ body{
   font-size: 12px;
   color: #aaa;
   margin-top: -25px;
-  margin-left: 106px;
+  margin-left: 96px;
 }
 .mer-logo {
   height: 20px;
