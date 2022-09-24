@@ -50,21 +50,15 @@ body{
 }
 .hlogo1 {
   position: absolute;
-  height: 43px;
-  bottom: -34px;
-  margin-left: 1376px;
+  height: 24px;
+  bottom: -19px;
+  margin-left: -68px;
 }
 .hlogo2 {
   position: absolute;
-  height: 43px;
-  bottom: -34px;
-  margin-left: 1454px;
-}
-.dada {
-  height: 180px;
-  width: 328px;
-  margin-top: 335px;
-  margin-left: 3px;
+  height: 24px;
+  bottom: -19px;
+  margin-left: -31px;
 }
 .news-block{
   margin-top: 50px;
@@ -78,4 +72,9 @@ body{
 .box-test-text{
   height: 38px;
   margin-left: 5px;
+}
+.gorod{
+margin-top: 300px;
+width: 495px;
+margin-left: -40px;
 }
