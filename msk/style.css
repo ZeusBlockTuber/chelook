@@ -1,9 +1,3 @@
-::selection {
-background: #ffb7b7; /* Safari */
-}
-::-moz-selection {
-background: #ffb7b7; /* Firefox */
-}
 html {
   height: 60%;
   background-color: #161617;
