@@ -1,3 +1,6 @@
+::-moz-selection {
+background: #ffb7b7;
+}
 html {
   height: 60%;
   background-color: #161617;
