@@ -34,12 +34,6 @@
   bottom: -19px;
   margin-left: -40px;
 }
-.hlogo0 {
-  position: absolute;
-  height: 19px;
-  margin-top: -3px;
-  margin-left: -110px;
-}
   }
   
   @media(max-width: 500px){
@@ -62,18 +56,12 @@
   position: absolute;
   height: 24px;
   bottom: -19px;
-  margin-left: -75px;
+  margin-left: -62px;
 }
-    .hlogo2 {
+.hlogo2 {
   position: absolute;
   height: 24px;
   bottom: -19px;
-  margin-left: -40px;
-}
-.hlogo0 {
-  position: absolute;
-  height: 19px;
-  margin-top: -3px;
-  margin-left: -110px;
+  margin-left: -29px;
 }
   }
