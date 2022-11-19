@@ -1,0 +1,42 @@
+html {
+  height: 60%;
+  background-color: #161617;
+}
+body{
+    height: 100%;
+}
+.headline {
+  position: relative;
+  display: flex;
+  align-items: center;
+  height: 35px;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+.logo {
+  position: absolute;
+  width: 100px;
+  height: 34px;
+  left: 30px;
+  top: 29px;
+}
+.hlogo {
+  position: absolute;
+  font-style: normal;
+  font-size: 18px;
+  color: white;
+  margin-left: 350px;
+  margin-top: -12px;
+  }
+.hlogo1 {
+  position: absolute;
+  height: 24px;
+  bottom: -19px;
+  margin-left: -75px;
+}
+.hlogo2 {
+  position: absolute;
+  height: 24px;
+  bottom: -19px;
+  margin-left: -31px;
+}
